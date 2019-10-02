@@ -1,0 +1,74 @@
+
+
+Experiment of building Supervised NN system has started.
+sz0 =   784, sz1 =   500, sz2 =   400, sz3 =    10, train_set_size =  60000, test_set_size =  10000, learning_rate = 0.080000
+
+
+Experiment of building Supervised NN system has started.
+sz0 =   784, sz1 =   500, sz2 =   400, sz3 =    10, train_set_size =  60000, test_set_size =  10000, learning_rate = 0.080000
+After epoch= 0, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 1, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 2, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 3, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 4, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 5, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 6, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 7, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 8, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 9, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 10, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 11, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 12, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 13, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 14, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 15, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 16, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 17, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 18, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 19, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 20, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 21, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 22, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 23, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 24, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 25, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 26, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 27, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 28, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 29, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 30, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 31, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 32, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 33, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 34, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 35, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 36, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 37, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 38, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 39, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 40, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 41, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 42, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 43, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 44, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 45, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 46, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 47, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 48, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 49, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 50, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 51, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 52, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 53, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 54, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 55, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 56, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 57, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 58, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 59, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 60, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 61, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 62, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 63, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 64, Ing_rate=0.080000, S-NN Accuracy = 0.098000
+After epoch= 65, Ing_rate=0.080000, S-NN Accuracy = 0.098000

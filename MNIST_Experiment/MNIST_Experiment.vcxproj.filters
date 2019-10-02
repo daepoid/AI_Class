@@ -15,7 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="testcode.cpp">
+    <Text Include="datasets\test.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="datasets\train.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MNIST_Basic.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MNIST_Basic_ver1.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MNIST_Batch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
