@@ -1,0 +1,4 @@
+
+
+Experiment of building Supervised NN system has started.
+sz0 =   784, sz1 =   500, sz2 =   400, sz3 =    10, train_set_size =  60000, test_set_size =  10000, learning_rate = 0.050000

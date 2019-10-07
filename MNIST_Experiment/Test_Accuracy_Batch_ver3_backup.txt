@@ -1,0 +1,29 @@
+
+
+Experiment of building Supervised NN system has started.
+sz0 =   784, sz1 =   500, sz2 =   400, sz3 =    10, train_set_size =  60000, test_set_size =  10000, learning_rate = 0.050000
+After epoch : 0, learning_rate : 0.050000, S-NN Accuracy = 0.939700
+After epoch : 1, learning_rate : 0.050000, S-NN Accuracy = 0.947300
+After epoch : 2, learning_rate : 0.050000, S-NN Accuracy = 0.959600
+After epoch : 3, learning_rate : 0.050000, S-NN Accuracy = 0.960200
+After epoch : 4, learning_rate : 0.050000, S-NN Accuracy = 0.962700
+After epoch : 0, learning_rate : 0.050000, S-NN Accuracy = 0.917200
+After epoch : 1, learning_rate : 0.050000, S-NN Accuracy = 0.953100
+After epoch : 2, learning_rate : 0.050000, S-NN Accuracy = 0.950600
+After epoch : 3, learning_rate : 0.050000, S-NN Accuracy = 0.963900
+After epoch : 4, learning_rate : 0.050000, S-NN Accuracy = 0.969500
+After epoch : 0, learning_rate : 0.050000, S-NN Accuracy = 0.927400
+After epoch : 1, learning_rate : 0.050000, S-NN Accuracy = 0.949500
+After epoch : 2, learning_rate : 0.050000, S-NN Accuracy = 0.958900
+After epoch : 3, learning_rate : 0.050000, S-NN Accuracy = 0.956700
+After epoch : 4, learning_rate : 0.050000, S-NN Accuracy = 0.964500
+After epoch : 0, learning_rate : 0.050000, S-NN Accuracy = 0.937200
+After epoch : 1, learning_rate : 0.050000, S-NN Accuracy = 0.953300
+After epoch : 2, learning_rate : 0.050000, S-NN Accuracy = 0.955400
+After epoch : 3, learning_rate : 0.050000, S-NN Accuracy = 0.962000
+After epoch : 4, learning_rate : 0.050000, S-NN Accuracy = 0.961400
+After epoch : 0, learning_rate : 0.100000, S-NN Accuracy = 0.924300
+After epoch : 1, learning_rate : 0.100000, S-NN Accuracy = 0.946000
+After epoch : 2, learning_rate : 0.100000, S-NN Accuracy = 0.959300
+After epoch : 3, learning_rate : 0.100000, S-NN Accuracy = 0.961000
+After epoch : 4, learning_rate : 0.100000, S-NN Accuracy = 0.965200
